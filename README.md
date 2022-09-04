@@ -4,8 +4,10 @@
 A chess like strategy board game with dice as game pieces.
 With a varied start and beginner-friendly amount of different pieces.
 
-Number of players: 2
+Number of players: 2\
 Time estimate: 30 - 60 min
+
+![screenshot](https://user-images.githubusercontent.com/16977171/188330286-abe55f99-58d1-4245-b151-1b1160bae039.png)
 
 
 ## Installation
@@ -22,10 +24,13 @@ Time estimate: 30 - 60 min
 To use Blender conventionally deactivate (by unchecking it) or uninstall (*Remove* button)
 the add-on in the (Preferences -> Add-on tap).
 
+For an illustrated install guide and instructions
+see [the Wiki](https://github.com/tobiasHeinke/dice_chess/wiki).
+
 
 ## Features
 
-- Keymap: The nine keys around the*S*, *H*, and *Numpad 5*  keys form pads to move the pieces.
+- Keymap: The nine keys around the *S*, *H*, and *Numpad 5* keys form pads to move the pieces.
 - Replay: At the bottom of screen is an area to control the replay.
 
 
